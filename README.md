@@ -12,8 +12,8 @@ A beginner-friendly full-stack implementation of the Sheryians Coding School "Au
 
 ## Project links
 
-- GitHub repository: `https://github.com/<your-username>/<repository-name>`
-- Live project: `<add-deployment-url-when-available>`
+- GitHub repository: `https://github.com/Anujblk/backend_proj`
+- Live project: `https://backend-proj-cjd3.vercel.app/`
 
 ## Stack
 
